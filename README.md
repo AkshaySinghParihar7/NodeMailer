@@ -18,7 +18,7 @@ This is a simple Node.js application that demonstrates how to send emails using 
 2. Navigate to the project directory:
 
     ```bash
-    cd Node-Mail-Send
+    cd NodeMailer
     ```
 3. Install dependencies:
 
